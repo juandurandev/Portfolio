@@ -12,26 +12,26 @@ const fakeAPI = [
         "image":"/portfolio2.png",
         "text":"This is my own portfolio desing and develop with tecnologies",
         "tech":"React.js NextJS Styled-Components",
-        "linkGitHub":"github",
-        "linkApp":"linkApp"
+        "linkGitHub":"https://github.com/juandurandev/Portfolio",
+        "linkApp":"https://juandurandev.vercel.app/"
     },
     {   "id":2,
         "title":"Foddie",
         "subTitle":"Simple Cooking for all",
         "image":"/Foodie.png",
         "text":"This is a fast way to find foods recipes to cook and enjoy ",
-        "tech":"react.js Styled-Components",
+        "tech":"React.js Styled-Components",
         "linkGitHub":"https://github.com/juandurandev/Foodie",
         "linkApp":"https://foodie.vercel.app/"
     },
     {
         "id":3,
-        "title":"Comming Soon",
-        "subTitle":"Comming Soon",
-        "text":"Comming Soon",
-        "tech":"Comming Soon",
-        "linkGitHub":"github",
-        "linkApp":"linkApp"
+        "title":"YardSale",
+        "subTitle":"E-commerce",
+        "text":"It's a E-commerce using a simple api of service and products",
+        "tech":"React.js Sass Nextjs ",
+        "linkGitHub":"https://github.com/juandurandev/Yardsale",
+        "linkApp":"https://yardsales.vercel.app/"
     },
     {
         "id":4,
