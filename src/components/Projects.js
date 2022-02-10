@@ -28,6 +28,7 @@ const fakeAPI = [
         "id":3,
         "title":"YardSale",
         "subTitle":"E-commerce",
+        "image":"/yardsale.png",
         "text":"It's a E-commerce using a simple api of service and products",
         "tech":"React.js Sass Nextjs ",
         "linkGitHub":"https://github.com/juandurandev/Yardsale",
