@@ -36,12 +36,13 @@ const fakeAPI = [
     },
     {
         "id":4,
-        "title":"Comming Soon",
-        "subTitle":"Comming Soon",
-        "text":"Comming Soon",
-        "tech":"Comming Soon",
-        "linkGitHub":"github",
-        "linkApp":"linkApp"
+        "title":"DevFinder",
+        "subTitle":"To find github user",
+        "image":"/DevFinder.png",
+        "text":"It's a simple app that brings info of github user",
+        "tech":"React.js Styled-Components",
+        "linkGitHub":"https://github.com/juandurandev/DevFinder",
+        "linkApp":"https://gitdevfinder.vercel.app/"
     },
     {
         "id":5,
