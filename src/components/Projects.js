@@ -48,7 +48,7 @@ const fakeAPI = [
         "id":5,
         "title":"Personal Blog",
         "subTitle":"My personal blog",
-        "image":"/Personal-blog.png",
+        "image":"/Personal-Blog.png",
         "text":"Programming and project blog",
         "tech":"Laravel Tailwind css",
         "linkGitHub":"https://github.com/juandurandev/Personal-Blog",
