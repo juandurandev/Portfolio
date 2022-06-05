@@ -46,11 +46,12 @@ const fakeAPI = [
     },
     {
         "id":5,
-        "title":"Comming Soon",
-        "subTitle":"Comming Soon",
-        "text":"Comming Soon",
-        "tech":"Comming Soon",
-        "linkGitHub":"github",
+        "title":"Personal Blog",
+        "subTitle":"My personal blog",
+        "image":"/Personal-blog.png",
+        "text":"Programming and project blog",
+        "tech":"Laravel Tailwind css",
+        "linkGitHub":"https://github.com/juandurandev/Personal-Blog",
         "linkApp":"linkApp"
     },
     {
