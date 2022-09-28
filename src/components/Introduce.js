@@ -36,9 +36,9 @@ export const Introduce = () => {
                         <ResumeButton dark={theme} target="_blank"  href="/JuanDuranCV.pdf">Resume</ResumeButton>
                     </ButtonContainer>
                     <hr />
-                    <SubtitlePresentation dark={theme}>Design and develop web's app and sometime smalls robots.</SubtitlePresentation>
-                    <ParagraphPresentation>I'm software engineer based in Valencia, Venezuela secializing in building
-                       web's apps another of my hobbies are relationed with computer science.</ParagraphPresentation>
+                    <SubtitlePresentation dark={theme}>Design and develop web apps and sometimes small robots.</SubtitlePresentation>
+                    <ParagraphPresentation>I'm a software engineer based in Valencia, Venezuela specializing in 
+                        building web apps and other hobbies related to computer science.</ParagraphPresentation>
                 </Presentation>
             </Section>
             </Container>
@@ -48,9 +48,9 @@ export const Introduce = () => {
                         <MyNameIs dark={theme}> Welcome, my name is</MyNameIs>
                         <MyNamePresentation dark={theme}>Juan Andrés Durán</MyNamePresentation>
                         <hr />
-                        <SubtitlePresentation dark={theme}>Design and develop web's app and sometime smalls robots.</SubtitlePresentation>
-                        <ParagraphPresentation>I'm software engineer based in Valencia, Venezuela specializing in building
-                        web's apps another of my hobbies are relationed with computer science.</ParagraphPresentation>
+                        <SubtitlePresentation dark={theme}>Design and develop web apps and sometimes small robots.</SubtitlePresentation>
+                        <ParagraphPresentation>I'm a software engineer based in Valencia, Venezuela specializing in 
+                            building web apps and other hobbies related to computer science.</ParagraphPresentation>
                     </Presentation>
                 </Section>
                 <DesktopSection>

@@ -40,7 +40,7 @@ export const Footer = () => {
                     </ul>
                     </Networks>
                 <Mention>
-                    <MentionLetters sep>Development and Designer</MentionLetters>
+                    <MentionLetters sep>Developer and Designer</MentionLetters>
                     <MentionLetters sep> &lt;Juan Duran /&gt;</MentionLetters>
                 </Mention>
                 </Foot>

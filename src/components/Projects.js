@@ -10,7 +10,7 @@ const fakeAPI = [
         "title":"Portfolio",
         "subTitle":"My Portfolio",
         "image":"/portfolio2.png",
-        "text":"This is my own portfolio desing and develop with tecnologies",
+        "text":"This is my own portfolio designing and developing technologies",
         "tech":"React.js NextJS Styled-Components",
         "linkGitHub":"https://github.com/juandurandev/Portfolio",
         "linkApp":"https://juandurandev.vercel.app/"
@@ -19,17 +19,17 @@ const fakeAPI = [
         "title":"Foddie",
         "subTitle":"Simple Cooking for all",
         "image":"/Foodie.png",
-        "text":"This is a fast way to find foods recipes to cook and enjoy ",
+        "text":"This is a fast way to find food recipes to cook and enjoy ",
         "tech":"React.js Styled-Components",
         "linkGitHub":"https://github.com/juandurandev/Foodie",
         "linkApp":"https://foodie.vercel.app/"
     },
     {
         "id":3,
-        "title":"YardSale",
+        "title":"YardSale E-commerce",
         "subTitle":"E-commerce",
         "image":"/yardsale.png",
-        "text":"It's a E-commerce using a simple api of service and products",
+        "text":"An E-commerce using a simple API of service and products",
         "tech":"React.js Sass Nextjs ",
         "linkGitHub":"https://github.com/juandurandev/Yardsale",
         "linkApp":"https://yardsales.vercel.app/"
@@ -39,7 +39,7 @@ const fakeAPI = [
         "title":"DevFinder",
         "subTitle":"To find github user",
         "image":"/DevFinder.png",
-        "text":"It's a simple app that brings info of github user",
+        "text":"It's a simple app that brings info about github user",
         "tech":"React.js Styled-Components",
         "linkGitHub":"https://github.com/juandurandev/DevFinder",
         "linkApp":"https://gitdevfinder.vercel.app/"
